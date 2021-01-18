@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedindexKeyValueStorageApp.Api", "MedindexKeyValueStorageApp\MedindexKeyValueStorageApp.Api.csproj", "{CDF27C8F-6A18-46FC-9E34-25B0B4832F0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedindexKeyValueStorageApp.Service", "MedindexKeyValueStorageApp.Service\MedindexKeyValueStorageApp.Service.csproj", "{99DE7BB2-3C29-434B-9489-0F974A2CB87D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedindexKeyValueStorageApp.Tests", "MedindexKeyValueStorageApp.Tests\MedindexKeyValueStorageApp.Tests.csproj", "{DA324FE0-9EB3-413A-AAC8-228FAB9E7309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF27C8F-6A18-46FC-9E34-25B0B4832F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF27C8F-6A18-46FC-9E34-25B0B4832F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF27C8F-6A18-46FC-9E34-25B0B4832F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF27C8F-6A18-46FC-9E34-25B0B4832F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99DE7BB2-3C29-434B-9489-0F974A2CB87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DE7BB2-3C29-434B-9489-0F974A2CB87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DE7BB2-3C29-434B-9489-0F974A2CB87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DE7BB2-3C29-434B-9489-0F974A2CB87D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA324FE0-9EB3-413A-AAC8-228FAB9E7309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA324FE0-9EB3-413A-AAC8-228FAB9E7309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA324FE0-9EB3-413A-AAC8-228FAB9E7309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA324FE0-9EB3-413A-AAC8-228FAB9E7309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C151DC63-F464-4394-AD6F-5BF60438F50F}
+	EndGlobalSection
+EndGlobal
